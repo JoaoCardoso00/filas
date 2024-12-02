@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Clock, Users, Monitor, Timer, Play, Pause, Plus, Minus, RotateCcw, Activity, Server } from 'lucide-react';
+import { Clock, Users, Timer, Play, Pause, Plus, Minus, RotateCcw, Activity, Server } from 'lucide-react';
 
 const OperationalLawsDemo = () => {
   return (
